@@ -1,6 +1,6 @@
 # About
 
-This project was created with the objective of reproducing the Netflix interface, integrated with imdb APIs.
+This project was created with the objective of reproducing the Netflix interface, integrated with imdb APIs using ReactJS.
 
 ## Available Scripts
 
